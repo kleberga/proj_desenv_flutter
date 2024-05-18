@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:10:5-40:19
+MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
+MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from [:sqflite] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\1ef52ad985ea243213f6242f9b75af8e\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a7f16864db2da734b21a2fdc0f56abe3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1f498ff0e8ef8a71ed8ab824153df391\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\942aae0e180ad99a266b951e00ac5876\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5317c989b1ba7f32fb650ba0d6f7eb5f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\9f80877c7096efbb9f88a25a23df1855\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\d9dae4d610809bdcb85c570eacaed26b\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\f46348eae806c01c1a418c4e798d1040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\38038bd6133a3b4591e3cfd7dcd0d6a0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\84d44e8fd9e082401f15f5ac4da90fad\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\2f6a29a4984a28240e12c64181521e73\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\7e89b26153dbfc6d4a7ab318e42b2bea\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\47b703dc59f52ebff0b17edc5ebe3647\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d637d91aa6d43ccb332d0fc9ad65a326\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\025c764ae565407c228c4fc553a2ca6c\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:3:5-76
+	android:name
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:3:22-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:4:5-85
+	android:name
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:4:22-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:7:22-64
+queries
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:46:5-51:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:47:9-50:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:48:13-72
+	android:name
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:48:21-70
+data
+ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:49:13-50
+	android:mimeType
+		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:49:19-48
+uses-sdk
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [:sqflite] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\1ef52ad985ea243213f6242f9b75af8e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\1ef52ad985ea243213f6242f9b75af8e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a7f16864db2da734b21a2fdc0f56abe3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a7f16864db2da734b21a2fdc0f56abe3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1f498ff0e8ef8a71ed8ab824153df391\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1f498ff0e8ef8a71ed8ab824153df391\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\942aae0e180ad99a266b951e00ac5876\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\942aae0e180ad99a266b951e00ac5876\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5317c989b1ba7f32fb650ba0d6f7eb5f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5317c989b1ba7f32fb650ba0d6f7eb5f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\9f80877c7096efbb9f88a25a23df1855\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\9f80877c7096efbb9f88a25a23df1855\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\d9dae4d610809bdcb85c570eacaed26b\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\d9dae4d610809bdcb85c570eacaed26b\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\f46348eae806c01c1a418c4e798d1040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\f46348eae806c01c1a418c4e798d1040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\38038bd6133a3b4591e3cfd7dcd0d6a0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\38038bd6133a3b4591e3cfd7dcd0d6a0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\84d44e8fd9e082401f15f5ac4da90fad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\84d44e8fd9e082401f15f5ac4da90fad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\2f6a29a4984a28240e12c64181521e73\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\2f6a29a4984a28240e12c64181521e73\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\7e89b26153dbfc6d4a7ab318e42b2bea\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\7e89b26153dbfc6d4a7ab318e42b2bea\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\47b703dc59f52ebff0b17edc5ebe3647\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\47b703dc59f52ebff0b17edc5ebe3647\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d637d91aa6d43ccb332d0fc9ad65a326\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d637d91aa6d43ccb332d0fc9ad65a326\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\025c764ae565407c228c4fc553a2ca6c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\025c764ae565407c228c4fc553a2ca6c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-76
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-17:56
+	android:enabled
+		ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+	android:foregroundServiceType
+		ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-53
+	android:name
+		ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.proj_desenv_flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.proj_desenv_flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
