@@ -7,4 +7,5 @@ No âmbito técnico, o aplicativo foi construído utilizando a linguagem Flutter
 As imagens a seguir mostram a aplicação em funcionamento:
 
 1. Image da tela principal, contendo a lista de tarefas
+
 ![Imagem 1](lista_tarefas_flutter1.PNG)
