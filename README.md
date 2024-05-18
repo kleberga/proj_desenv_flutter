@@ -1,16 +1,9 @@
-# proj_desenv_flutter
+# Aplicativo de celular para listar tarefas a serem executadas
 
-A new Flutter project.
+O presente aplicativo tem por objetivo permitir que o usuário acompanhe, por meio do celular, uma lista de tarefas a serem executadas pelo mesmo, como ir ao mercado ou limpar a casa. Para cadastrar a tarefa, o usuário informa um título e uma descrição para a mesma. O aplicativo adiciona, automaticamente, a data em que está sendo cadastrada a tarefa e a cidade onde encontra-se o celular. Após cadastrar a tarefa, a mesma pode ser visualizada, alterada ou excluída.
 
-## Getting Started
+No âmbito técnico, o aplicativo foi construído utilizando a linguagem Flutter. O armazenamento das tarefas é realizado no próprio celular, por meio da biblioteca "sqflite". Já localização do celular é realizada por meio da biblioteca "location" e a identificação da cidade usando a latitude e longitude do celular é feita por meio de API gratuita voltada pela essa finalidade.
 
-This project is a starting point for a Flutter application.
+As imagens a seguir mostram a aplicação em funcionamento:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](proj_desenv_flutter/lista_tarefas_flutter1.PNG)
