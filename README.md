@@ -10,10 +10,10 @@ As imagens a seguir mostram a aplicação em funcionamento:
 
 ![Imagem 1](lista_tarefas_flutter1.PNG)
 
-2. Imagem da tela de adicionar tarefas
+2. Imagem da tela de adicionar tarefa
 
 ![Imagem 1](lista_tarefas_flutter2.PNG)
 
-3. Imagem da tela de atualizar tarefas
+3. Imagem da tela de atualizar tarefa
 
 ![Imagem 1](lista_tarefas_flutter3.PNG)
