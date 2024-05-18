@@ -6,4 +6,4 @@ No âmbito técnico, o aplicativo foi construído utilizando a linguagem Flutter
 
 As imagens a seguir mostram a aplicação em funcionamento:
 
-![Alt text](proj_desenv_flutter/lista_tarefas_flutter1.PNG)
+![Alt text](lista_tarefas_flutter1.PNG)
