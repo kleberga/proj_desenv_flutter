@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../database/TarefaDB.dart';
 import '../model/Tarefa.dart';
 

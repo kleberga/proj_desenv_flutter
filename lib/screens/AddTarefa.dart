@@ -29,7 +29,6 @@ class AddTarefa extends StatelessWidget {
   }
 }
 
-
 class Formulario extends StatefulWidget {
   const Formulario({super.key});
   @override
