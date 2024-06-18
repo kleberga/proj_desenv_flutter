@@ -1,24 +1,50 @@
 -- Merging decision tree log ---
 application
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:10:5-40:19
+MERGED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
 MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
-MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\92b24c382b0037d4630dfeb05222f3be\transformed\jetified-camera-core-1.3.3\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\92b24c382b0037d4630dfeb05222f3be\transformed\jetified-camera-core-1.3.3\AndroidManifest.xml:23:5-34:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\4c4212d578df9e2270f4f2dd144596b6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\4c4212d578df9e2270f4f2dd144596b6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b63aab0a2a7795500304221d3c558b64\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b63aab0a2a7795500304221d3c558b64\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\dcdaf985347abd9c58fdc9d7091c5d70\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\dcdaf985347abd9c58fdc9d7091c5d70\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\5aa8d15dcbc6470dc2a7a9d47893af16\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\5aa8d15dcbc6470dc2a7a9d47893af16\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\03b950bebc7a428f05b421a4aaaf248a\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\03b950bebc7a428f05b421a4aaaf248a\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a26a92a0df75d863af5a12dd9c873ff1\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a26a92a0df75d863af5a12dd9c873ff1\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\3dd3f392b906bba93e11186c03e65d42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\3dd3f392b906bba93e11186c03e65d42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 	android:name
 		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
 manifest
@@ -27,31 +53,55 @@ INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
 MERGED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:sqflite] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:path_provider_android] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
-MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\1ef52ad985ea243213f6242f9b75af8e\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a7f16864db2da734b21a2fdc0f56abe3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1f498ff0e8ef8a71ed8ab824153df391\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\942aae0e180ad99a266b951e00ac5876\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5317c989b1ba7f32fb650ba0d6f7eb5f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\9f80877c7096efbb9f88a25a23df1855\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\d9dae4d610809bdcb85c570eacaed26b\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\f46348eae806c01c1a418c4e798d1040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\38038bd6133a3b4591e3cfd7dcd0d6a0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\84d44e8fd9e082401f15f5ac4da90fad\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\2f6a29a4984a28240e12c64181521e73\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\7e89b26153dbfc6d4a7ab318e42b2bea\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\47b703dc59f52ebff0b17edc5ebe3647\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d637d91aa6d43ccb332d0fc9ad65a326\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\025c764ae565407c228c4fc553a2ca6c\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-video:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\7799c90b95081b23949728d8da2031be\transformed\jetified-camera-video-1.3.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\58c6a5377bf7a506cb9b6f59c90d041d\transformed\jetified-camera-lifecycle-1.3.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\92b24c382b0037d4630dfeb05222f3be\transformed\jetified-camera-core-1.3.3\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\4c4212d578df9e2270f4f2dd144596b6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\a4b6ec640309882bf9c4eec073602e51\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b63aab0a2a7795500304221d3c558b64\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\dcdaf985347abd9c58fdc9d7091c5d70\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\5aa8d15dcbc6470dc2a7a9d47893af16\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\1b498d34de481d16af23a5ab202cc5b5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\03b950bebc7a428f05b421a4aaaf248a\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a26a92a0df75d863af5a12dd9c873ff1\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\a36248a57f879f0f56df354a24d36b5b\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\e21febc44ab3c1e9209323a0f351ef36\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5932b07c43040159de91107b487fc93a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\fe10ba7f840e8acedb56d1564e062143\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\834455dae26ab8cf3adf49917d0b52aa\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a33a2b3de12fc0cd183627eb05e093fa\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\0f1d99ecf7587bb95e31a1b80797020b\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d51e29d5db47498432def2d284950780\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Kleber\.gradle\caches\transforms-3\8577c81303e68e31e78556a070f500df\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\03bff04ef818f14c3c9c919c3c297c21\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Kleber\.gradle\caches\transforms-3\ef70873e29b00107f201f7f8af9cb665\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\4bd2bcf0eb1fa8b4b329948955558bb9\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b8eafd3fb59029655b9f0a5c18d22cc0\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\9761c100eaf47da26fef9ba807bccc01\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b3af92e7df58def80eb1ce4a9ed6ebef\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1cc0d649bd69da09341a81f555642e91\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\3dd3f392b906bba93e11186c03e65d42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\eba2fbf5c28b3eb6e90ef20320fc0a5a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\0286963a8bfc25215f3210262ccbbbcc\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a3f0b7b4dc671588eb006eb933b425f5\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -79,12 +129,24 @@ ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app
 		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:4:22-82
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:8:5-79
 	android:name
 		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:7:5-67
 MERGED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:7:5-67
 MERGED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:7:5-67
 	android:name
 		ADDED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml:7:22-64
 queries
@@ -103,64 +165,180 @@ uses-sdk
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:sqflite] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:sqflite] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:path_provider_android] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\fec7aefce037af814c0ccbd9c62a464a\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\22c2afc31f2ef32aa6ca8071465f53ad\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\1ef52ad985ea243213f6242f9b75af8e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\1ef52ad985ea243213f6242f9b75af8e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\9d715a3e53dde034ffb5234a22d1ea91\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a7f16864db2da734b21a2fdc0f56abe3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a7f16864db2da734b21a2fdc0f56abe3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1f498ff0e8ef8a71ed8ab824153df391\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1f498ff0e8ef8a71ed8ab824153df391\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\942aae0e180ad99a266b951e00ac5876\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\942aae0e180ad99a266b951e00ac5876\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5317c989b1ba7f32fb650ba0d6f7eb5f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5317c989b1ba7f32fb650ba0d6f7eb5f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\9f80877c7096efbb9f88a25a23df1855\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\9f80877c7096efbb9f88a25a23df1855\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\d9dae4d610809bdcb85c570eacaed26b\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\d9dae4d610809bdcb85c570eacaed26b\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\f46348eae806c01c1a418c4e798d1040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\f46348eae806c01c1a418c4e798d1040\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\9ec936d40f47a14c8bbbf9ca01b6f978\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\38038bd6133a3b4591e3cfd7dcd0d6a0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\38038bd6133a3b4591e3cfd7dcd0d6a0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\84d44e8fd9e082401f15f5ac4da90fad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\84d44e8fd9e082401f15f5ac4da90fad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\2f6a29a4984a28240e12c64181521e73\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\2f6a29a4984a28240e12c64181521e73\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\7e89b26153dbfc6d4a7ab318e42b2bea\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\7e89b26153dbfc6d4a7ab318e42b2bea\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\47b703dc59f52ebff0b17edc5ebe3647\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\47b703dc59f52ebff0b17edc5ebe3647\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d637d91aa6d43ccb332d0fc9ad65a326\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d637d91aa6d43ccb332d0fc9ad65a326\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\025c764ae565407c228c4fc553a2ca6c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\025c764ae565407c228c4fc553a2ca6c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-video:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\7799c90b95081b23949728d8da2031be\transformed\jetified-camera-video-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\7799c90b95081b23949728d8da2031be\transformed\jetified-camera-video-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\58c6a5377bf7a506cb9b6f59c90d041d\transformed\jetified-camera-lifecycle-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\58c6a5377bf7a506cb9b6f59c90d041d\transformed\jetified-camera-lifecycle-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\92b24c382b0037d4630dfeb05222f3be\transformed\jetified-camera-core-1.3.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\92b24c382b0037d4630dfeb05222f3be\transformed\jetified-camera-core-1.3.3\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\4c4212d578df9e2270f4f2dd144596b6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\4c4212d578df9e2270f4f2dd144596b6\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\a4b6ec640309882bf9c4eec073602e51\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\a4b6ec640309882bf9c4eec073602e51\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b63aab0a2a7795500304221d3c558b64\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b63aab0a2a7795500304221d3c558b64\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\dcdaf985347abd9c58fdc9d7091c5d70\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\dcdaf985347abd9c58fdc9d7091c5d70\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\5aa8d15dcbc6470dc2a7a9d47893af16\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Kleber\.gradle\caches\transforms-3\5aa8d15dcbc6470dc2a7a9d47893af16\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\1b498d34de481d16af23a5ab202cc5b5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\1b498d34de481d16af23a5ab202cc5b5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\03b950bebc7a428f05b421a4aaaf248a\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\03b950bebc7a428f05b421a4aaaf248a\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a26a92a0df75d863af5a12dd9c873ff1\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a26a92a0df75d863af5a12dd9c873ff1\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\a36248a57f879f0f56df354a24d36b5b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\a36248a57f879f0f56df354a24d36b5b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\e21febc44ab3c1e9209323a0f351ef36\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\e21febc44ab3c1e9209323a0f351ef36\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5932b07c43040159de91107b487fc93a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\5932b07c43040159de91107b487fc93a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\fe10ba7f840e8acedb56d1564e062143\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\fe10ba7f840e8acedb56d1564e062143\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\834455dae26ab8cf3adf49917d0b52aa\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\834455dae26ab8cf3adf49917d0b52aa\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a33a2b3de12fc0cd183627eb05e093fa\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\a33a2b3de12fc0cd183627eb05e093fa\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\0f1d99ecf7587bb95e31a1b80797020b\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\0f1d99ecf7587bb95e31a1b80797020b\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d51e29d5db47498432def2d284950780\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\d51e29d5db47498432def2d284950780\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Kleber\.gradle\caches\transforms-3\8577c81303e68e31e78556a070f500df\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Kleber\.gradle\caches\transforms-3\8577c81303e68e31e78556a070f500df\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\03bff04ef818f14c3c9c919c3c297c21\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\03bff04ef818f14c3c9c919c3c297c21\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Kleber\.gradle\caches\transforms-3\ef70873e29b00107f201f7f8af9cb665\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Kleber\.gradle\caches\transforms-3\ef70873e29b00107f201f7f8af9cb665\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\4bd2bcf0eb1fa8b4b329948955558bb9\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\4bd2bcf0eb1fa8b4b329948955558bb9\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b8eafd3fb59029655b9f0a5c18d22cc0\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b8eafd3fb59029655b9f0a5c18d22cc0\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\9761c100eaf47da26fef9ba807bccc01\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\9761c100eaf47da26fef9ba807bccc01\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b3af92e7df58def80eb1ce4a9ed6ebef\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\b3af92e7df58def80eb1ce4a9ed6ebef\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1cc0d649bd69da09341a81f555642e91\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\1cc0d649bd69da09341a81f555642e91\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\3dd3f392b906bba93e11186c03e65d42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kleber\.gradle\caches\transforms-3\3dd3f392b906bba93e11186c03e65d42\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\eba2fbf5c28b3eb6e90ef20320fc0a5a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kleber\.gradle\caches\transforms-3\eba2fbf5c28b3eb6e90ef20320fc0a5a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\0286963a8bfc25215f3210262ccbbbcc\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Kleber\.gradle\caches\transforms-3\0286963a8bfc25215f3210262ccbbbcc\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a3f0b7b4dc671588eb006eb933b425f5\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a3f0b7b4dc671588eb006eb933b425f5\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
 INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
 		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\android\app\src\debug\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_auth] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_storage] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+uses-feature#android.hardware.camera.any
+ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-64
+	android:name
+		ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:10:19-61
+uses-permission#android.permission.CAMERA
+ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-16:38
+	android:maxSdkVersion
+		ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-35
+	android:name
+		ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-19:31
+	tools:node
+		ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-28
+	android:name
+		ADDED from [:camera_android_camerax] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\camera_android_camerax\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
 	android:name
@@ -179,49 +357,167 @@ ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter
 		ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-53
 	android:name
 		ADDED from [:location] C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-71
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\92b24c382b0037d4630dfeb05222f3be\transformed\jetified-camera-core-1.3.3\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\92b24c382b0037d4630dfeb05222f3be\transformed\jetified-camera-core-1.3.3\AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:26:13-36
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:28:13-75
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\147b4cf98064b39a0bf8f92856f8ce59\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:30:13-32:89
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:32:17-86
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\36a3c0f23286cd8a7878fc6562c3939f\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Kleber\.gradle\caches\transforms-3\9925c442040833a263d341e824f17012\transformed\jetified-camera-camera2-1.3.3\AndroidManifest.xml:31:17-103
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:39:27-75
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Kleber\.gradle\caches\transforms-3\a636580d14f28c945babbeabe080bb4d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\5f7997faf32f047265c24f62e04a894f\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Kleber\.gradle\caches\transforms-3\5c03dc5fd939f10cbf253a18980f7f44\transformed\jetified-firebase-appcheck-17.1.2\AndroidManifest.xml:29:17-117
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\84fcffba5d2a80794c560ff8e2632eb3\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\3e90163ac23a75966d5f1bb46d1830dc\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Kleber\.gradle\caches\transforms-3\cfb3c2a68b6c4307cf8af8b07bfe6a43\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Kleber\.gradle\caches\transforms-3\0debc1d1e2ba24aa1df21f71b50f9d38\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:9:22-95
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\a1b5722cdb4b3d7ab48b0a0017d27ebc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Kleber\.gradle\caches\transforms-3\25e7b6ce7b1c0c970cc37a1473864451\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a26a92a0df75d863af5a12dd9c873ff1\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a26a92a0df75d863af5a12dd9c873ff1\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Kleber\.gradle\caches\transforms-3\a26a92a0df75d863af5a12dd9c873ff1\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
-permission#com.example.proj_desenv_flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#br.pro.aguiar.proj_desenv_flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
-uses-permission#com.example.proj_desenv_flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#br.pro.aguiar.proj_desenv_flutter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\be2cd6a04db14c41101e9a0d388ccb16\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Kleber\.gradle\caches\transforms-3\4a31870d74361324d1c3aade1fe1bfff\transformed\core-1.10.1\AndroidManifest.xml:26:22-94

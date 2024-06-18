@@ -1,5 +1,5 @@
 import 'package:path/path.dart';
-import 'package:proj_desenv_flutter/database/tarefa_db.dart';
+import 'package:proj_desenv_flutter/database/TarefaDB.dart';
 import 'package:sqflite/sqflite.dart';
 
 class DatabaseService{

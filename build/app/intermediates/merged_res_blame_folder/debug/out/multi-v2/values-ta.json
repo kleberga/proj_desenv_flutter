@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.proj_desenv_flutter.app-mergeDebugResources-13:/values-ta/values-ta.xml",
+            "outputFile": "br.pro.aguiar.proj_desenv_flutter.app-mergeDebugResources-20:/values-ta/values-ta.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\36a3c0f23286cd8a7878fc6562c3939f\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-ta\\values.xml",
+                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\a26a92a0df75d863af5a12dd9c873ff1\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-ta\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\be2cd6a04db14c41101e9a0d388ccb16\\transformed\\core-1.10.1\\res\\values-ta\\values-ta.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,254,353,451,558,673,801",
-                        "endColumns": "95,102,98,97,106,114,127,100",
-                        "endOffsets": "146,249,348,446,553,668,796,897"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,27",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,254,353,451,558,673,3037",
-                        "endColumns": "95,102,98,97,106,114,127,100",
-                        "endOffsets": "146,249,348,446,553,668,796,3133"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\147b4cf98064b39a0bf8f92856f8ce59\\transformed\\jetified-play-services-base-18.3.0\\res\\values-ta\\values.xml",
+                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\84fcffba5d2a80794c560ff8e2632eb3\\transformed\\jetified-play-services-base-18.3.0\\res\\values-ta\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,6 +35,40 @@
                         "startOffsets": "801,906,1058,1185,1291,1443,1571,1684,1946,2126,2233,2386,2521,2675,2831,2893,2956",
                         "endColumns": "104,151,126,105,151,127,112,100,179,106,152,134,153,155,61,62,80",
                         "endOffsets": "901,1053,1180,1286,1438,1566,1679,1780,2121,2228,2381,2516,2670,2826,2888,2951,3032"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\e21febc44ab3c1e9209323a0f351ef36\\transformed\\browser-1.4.0\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,172,274,381",
+                        "endColumns": "116,101,106,103",
+                        "endOffsets": "167,269,376,480"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3037,3154,3256,3363",
+                        "endColumns": "116,101,106,103",
+                        "endOffsets": "3149,3251,3358,3462"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\4a31870d74361324d1c3aade1fe1bfff\\transformed\\core-1.10.1\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,254,353,451,558,673,801",
+                        "endColumns": "95,102,98,97,106,114,127,100",
+                        "endOffsets": "146,249,348,446,553,668,796,897"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,31",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,254,353,451,558,673,3467",
+                        "endColumns": "95,102,98,97,106,114,127,100",
+                        "endOffsets": "146,249,348,446,553,668,796,3563"
                     }
                 }
             ]

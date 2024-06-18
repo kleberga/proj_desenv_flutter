@@ -1,14 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import '../database/tarefa_db.dart';
+import 'package:provider/provider.dart';
 import '../model/Tarefa.dart';
+import '../providers/TarefasProvider.dart';
 import 'Home.dart';
 
 class UpdateTarefa extends StatelessWidget {
-  UpdateTarefa({super.key, required this.tarefaAtualiza, required this.adicionarTaref});
-
-  final Tarefa tarefaAtualiza;
-  final Function adicionarTaref;
+  UpdateTarefa({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -25,7 +23,8 @@ class UpdateTarefa extends StatelessWidget {
         body: SingleChildScrollView(
           child: Padding(
             padding: EdgeInsets.fromLTRB(12, 20, 12, 20),
-            child: Formulario(tarefaAtualiza: tarefaAtualiza, adicionarTaref: adicionarTaref),
+            //child: Formulario(tarefaAtualiza: tarefaAtualiza),
+            child: Formulario(),
           ),
         )
     );
@@ -33,29 +32,26 @@ class UpdateTarefa extends StatelessWidget {
 }
 
 class Formulario extends StatefulWidget {
-  const Formulario({super.key, required this.tarefaAtualiza, required this.adicionarTaref});
-
-  final Tarefa tarefaAtualiza;
-  final Function adicionarTaref;
+  const Formulario({super.key});
 
   @override
-  State<Formulario> createState() => _UpdateTarefa(tarefaAtualiza: tarefaAtualiza, adicionarTaref: adicionarTaref);
+  State<Formulario> createState() => _UpdateTarefa();
 }
 
 class _UpdateTarefa extends State<Formulario> {
-
-  _UpdateTarefa({required this.tarefaAtualiza, required this.adicionarTaref});
-
-  final Tarefa tarefaAtualiza;
-  final Function adicionarTaref;
 
   final GlobalKey<FormState> _formKey2 = GlobalKey<FormState>();
 
   @override
   Widget build(BuildContext context) {
 
+    Tarefa tarefaAtualiza = ModalRoute.of(context)!.settings.arguments as Tarefa;
+
     final tituloController = TextEditingController(text: tarefaAtualiza.titulo);
     final descricaoController = TextEditingController(text: tarefaAtualiza.descricao);
+
+    final tarefaProvider = context.read<TarefasProvider>();
+    final atualizarTarefa = tarefaProvider.atualizarTarefa;
 
     return Form(
       key: _formKey2,
@@ -98,21 +94,8 @@ class _UpdateTarefa extends State<Formulario> {
                 if (_formKey2.currentState!.validate()) {
                   titulo = tituloController.text;
                   descricao = descricaoController.text;
-
-                  DateTime agora = DateTime.now();
-                  var formatter = DateFormat('dd/MM/yyyy');
-                  String formattedDate = formatter.format(agora).toString();
-
-                  await TarefaDB().update(id: tarefaAtualiza.id, titulo: titulo, descricao: descricao);
-
-                  List listaAux = await TarefaDB().fetchAll();
-
-                  adicionarTaref(listaAux);
-                  print(formattedDate);
-                  Navigator.pop(
-                      context,
-                      MaterialPageRoute(builder: (context) => Home())
-                  );
+                  atualizarTarefa(tarefaAtualiza.id, titulo, descricao);
+                Navigator.pushNamed(context, 'home');
                 };
               },
               child: const Text('Enviar'),

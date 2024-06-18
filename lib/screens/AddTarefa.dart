@@ -3,13 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:location/location.dart';
 import 'package:http/http.dart' as http;
-import '../database/tarefa_db.dart';
+import 'package:proj_desenv_flutter/providers/TarefasProvider.dart';
+import 'package:provider/provider.dart';
 import '../model/Cidade.dart';
-import 'Home.dart';
 
 class AddTarefa extends StatelessWidget {
-  const AddTarefa({super.key, required this.adicionarTaref});
-  final Function adicionarTaref;
+  const AddTarefa({super.key});
   @override
   Widget build(BuildContext context) {
     final appBar = AppBar(
@@ -23,7 +22,7 @@ class AddTarefa extends StatelessWidget {
         body: SingleChildScrollView(
           child: Padding(
             padding: EdgeInsets.fromLTRB(12, 20, 12, 20),
-            child: Formulario(adicionarTaref2: adicionarTaref,),
+            child: Formulario(),
           ),
         )
     );
@@ -32,17 +31,13 @@ class AddTarefa extends StatelessWidget {
 
 
 class Formulario extends StatefulWidget {
-  const Formulario({super.key, required this.adicionarTaref2});
-  final Function adicionarTaref2;
+  const Formulario({super.key});
   @override
-  State<Formulario> createState() => _AddTarefaState(adicionarTarefa3: adicionarTaref2);
+  State<Formulario> createState() => _AddTarefaState();
 }
 
 class _AddTarefaState extends State<Formulario> {
 
-  _AddTarefaState({required this.adicionarTarefa3});
-  final Function adicionarTarefa3;
-  // final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
   final _formKey1 = GlobalKey<FormState>();
   final tituloController = TextEditingController();
   final descricaoController = TextEditingController();
@@ -70,12 +65,16 @@ class _AddTarefaState extends State<Formulario> {
     if (response.statusCode == 200) {
       return Cidade.fromJson(jsonDecode(response.body) as Map<String, dynamic>);
     } else {
-      throw Exception('Failed to load album');
+      throw Exception('Failed to load city');
     }
   }
 
   @override
   Widget build(BuildContext context) {
+
+    final tarefaProvider = context.read<TarefasProvider>();
+    final addTarefa = tarefaProvider.addTarefa;
+
     return Form(
       key: _formKey1,
       child: Column(
@@ -125,21 +124,12 @@ class _AddTarefaState extends State<Formulario> {
                             if (_formKey1.currentState!.validate()) {
                               titulo = tituloController.text;
                               descricao = descricaoController.text;
-
                               DateTime agora = DateTime.now();
                               var formatter = DateFormat('dd/MM/yyyy');
                               String formattedDate = formatter.format(agora).toString();
-
-                              await TarefaDB().create(titulo: titulo, descricao: descricao, created_at: formattedDate, localizacao: snapshot.data!.city);
-
-                              List listaAux = await TarefaDB().fetchAll();
-
-                              adicionarTarefa3(listaAux);
-                              Navigator.pop(
-                                  context,
-                                  MaterialPageRoute(builder: (context) => Home())
-                              );
-                            };
+                              addTarefa(titulo: titulo, descricao: descricao, created_at: formattedDate, localizacao: snapshot.data!.city);
+                              Navigator.pushNamed(context, 'home');
+                            }
                           },
                           child: const Text('Enviar'),
                         );

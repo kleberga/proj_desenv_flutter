@@ -1,10 +1,44 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.proj_desenv_flutter.app-mergeDebugResources-13:/values-hr/values-hr.xml",
+            "outputFile": "br.pro.aguiar.proj_desenv_flutter.app-mergeDebugResources-20:/values-hr/values-hr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\147b4cf98064b39a0bf8f92856f8ce59\\transformed\\jetified-play-services-base-18.3.0\\res\\values-hr\\values.xml",
+                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\4a31870d74361324d1c3aade1fe1bfff\\transformed\\core-1.10.1\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,357,456,560,664,781",
+                        "endColumns": "97,106,96,98,103,103,116,100",
+                        "endOffsets": "148,255,352,451,555,659,776,877"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,31",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,357,456,560,664,3389",
+                        "endColumns": "97,106,96,98,103,103,116,100",
+                        "endOffsets": "148,255,352,451,555,659,776,3485"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\e21febc44ab3c1e9209323a0f351ef36\\transformed\\browser-1.4.0\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,160,260,374",
+                        "endColumns": "104,99,113,101",
+                        "endOffsets": "155,255,369,471"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2968,3073,3173,3287",
+                        "endColumns": "104,99,113,101",
+                        "endOffsets": "3068,3168,3282,3384"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\84fcffba5d2a80794c560ff8e2632eb3\\transformed\\jetified-play-services-base-18.3.0\\res\\values-hr\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,24 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\be2cd6a04db14c41101e9a0d388ccb16\\transformed\\core-1.10.1\\res\\values-hr\\values-hr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,260,357,456,560,664,781",
-                        "endColumns": "97,106,96,98,103,103,116,100",
-                        "endOffsets": "148,255,352,451,555,659,776,877"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,27",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,260,357,456,560,664,2968",
-                        "endColumns": "97,106,96,98,103,103,116,100",
-                        "endOffsets": "148,255,352,451,555,659,776,3064"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\36a3c0f23286cd8a7878fc6562c3939f\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-hr\\values.xml",
+                    "source": "C:\\Users\\Kleber\\.gradle\\caches\\transforms-3\\a26a92a0df75d863af5a12dd9c873ff1\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-hr\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

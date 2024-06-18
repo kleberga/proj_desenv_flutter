@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.proj_desenv_flutter",
+  "applicationId": "br.pro.aguiar.proj_desenv_flutter",
   "variantName": "debug",
   "elements": [
     {
