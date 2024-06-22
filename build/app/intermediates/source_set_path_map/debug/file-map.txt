@@ -30,4 +30,5 @@ br.pro.aguiar.proj_desenv_flutter.app-packaged_res-28 C:\Users\Kleber\AndroidStu
 br.pro.aguiar.proj_desenv_flutter.app-packaged_res-29 C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\integration_test\intermediates\packaged_res\debug
 br.pro.aguiar.proj_desenv_flutter.app-packaged_res-30 C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\location\intermediates\packaged_res\debug
 br.pro.aguiar.proj_desenv_flutter.app-packaged_res-31 C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\path_provider_android\intermediates\packaged_res\debug
-br.pro.aguiar.proj_desenv_flutter.app-packaged_res-32 C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\sqflite\intermediates\packaged_res\debug
+br.pro.aguiar.proj_desenv_flutter.app-packaged_res-32 C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\shared_preferences_android\intermediates\packaged_res\debug
+br.pro.aguiar.proj_desenv_flutter.app-packaged_res-33 C:\Users\Kleber\AndroidStudioProjects\proj_desenv_flutter\build\sqflite\intermediates\packaged_res\debug
