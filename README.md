@@ -9,7 +9,7 @@ No âmbito técnico, o aplicativo possui as seguintes características:
 - o armazenamento das tarefas é realizado no próprio celular, por meio da biblioteca "sqflite";
 - a localização do celular é realizada por meio da biblioteca "location" e a identificação da cidade usando a latitude e longitude do celular é feita por meio de API gratuita voltada pela essa finalidade;
 - o gerenciamento do estado da tela de tarefas é realizado pela biblioteca "provider";
-- o aplicativo possui testes unitários para as funções que recuperam, criar ou alteram registros no banco de dados; e
+- o aplicativo possui testes unitários para as funções que adicionam novas tarefas e para as funções que recuperam, criam ou alteram registros no banco de dados; e
 - o aplicativo possui teste de integração para a tela de login.
   
 
