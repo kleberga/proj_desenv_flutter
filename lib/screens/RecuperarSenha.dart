@@ -50,7 +50,8 @@ class _FormRecuperarState extends State<FormRecuperar> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            FormularioComponente().CaixaFormularioLogin(emailController, 'E-mail', false, 'Informe um e-mail válido!', Icon(Icons.email)),
+            FormularioComponente().CaixaFormularioLogin(emailController, 'E-mail', false,
+                'Informe um e-mail válido!', Icon(Icons.email), "recuperar_email_id"),
             Padding(padding: EdgeInsets.fromLTRB(0, 20, 0, 0)),
             Container(
               child: mostrarErro ? fnMostrarErro() : SizedBox.shrink(),

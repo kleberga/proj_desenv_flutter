@@ -1,4 +1,4 @@
-#Mon Jun 17 22:01:44 BRT 2024
+#Sat Jun 22 09:54:33 BRT 2024
 base.0=C\:\\Users\\Kleber\\AndroidStudioProjects\\proj_desenv_flutter\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Kleber\\AndroidStudioProjects\\proj_desenv_flutter\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Kleber\\AndroidStudioProjects\\proj_desenv_flutter\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

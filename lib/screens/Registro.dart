@@ -92,9 +92,9 @@ class _FormLoginState extends State<FormRegistro> {
                   icon: Icon(Icons.camera_alt)
               ),
             Padding(padding: EdgeInsets.fromLTRB(0, 20, 0, 0)),
-            FormularioComponente().CaixaFormularioRegistroEmail(emailController, false, emailTest),
+            FormularioComponente().CaixaFormularioRegistroEmail(emailController, false, emailTest, "registro_email_id"),
             Padding(padding: EdgeInsets.fromLTRB(0, 20, 0, 0)),
-            FormularioComponente().CaixaFormularioRegistroSenha(senhaController, true),
+            FormularioComponente().CaixaFormularioRegistroSenha(senhaController, true, "registro_senha_id"),
             Padding(padding: EdgeInsets.fromLTRB(0, 20, 0, 0)),
             Container(
               child: mostrarErro ? fnMostrarErro() : SizedBox.shrink(),

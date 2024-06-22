@@ -32,10 +32,10 @@ class AddTarefa extends StatelessWidget {
 class Formulario extends StatefulWidget {
   const Formulario({super.key});
   @override
-  State<Formulario> createState() => _AddTarefaState();
+  State<Formulario> createState() => AddTarefaState();
 }
 
-class _AddTarefaState extends State<Formulario> {
+class AddTarefaState extends State<Formulario> {
 
   final _formKey1 = GlobalKey<FormState>();
   final tituloController = TextEditingController();

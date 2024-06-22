@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:formulario_pk/formulario_pk.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class Login extends StatelessWidget {
   const Login({super.key});
@@ -28,10 +29,12 @@ class FormLogin extends StatefulWidget {
   const FormLogin({super.key});
 
   @override
-  State<FormLogin> createState() => _FormLoginState();
+  State<FormLogin> createState() => FormLoginState();
 }
 
-class _FormLoginState extends State<FormLogin> {
+
+
+class FormLoginState extends State<FormLogin> {
 
   var mostrarErro = false;
   var mensagemErro = '';
@@ -43,15 +46,19 @@ class _FormLoginState extends State<FormLogin> {
     return Text(mensagemErro, style: TextStyle(color: Colors.red, fontSize: 18),);
   }
 
+
+
   @override
   Widget build(BuildContext context) {
     return Form(
         key: _formKeyLogin,
         child: Column(
           children: <Widget>[
-            FormularioComponente().CaixaFormularioLogin(emailController, 'E-mail', false, 'Informe um e-mail válido!', Icon(Icons.email)),
+            FormularioComponente().CaixaFormularioLogin(emailController, 'E-mail', false,
+                'Informe um e-mail válido!', Icon(Icons.email), "login_email_id"),
             Padding(padding: EdgeInsets.fromLTRB(0, 20, 0, 0)),
-            FormularioComponente().CaixaFormularioLogin(senhaController, 'Senha', true, 'Informe uma senha válida!', Icon(Icons.key)),
+            FormularioComponente().CaixaFormularioLogin(senhaController, 'Senha', true,
+                'Informe uma senha válida!', Icon(Icons.key), "login_senha_id"),
             Padding(padding: EdgeInsets.fromLTRB(0, 20, 0, 0)),
             Container(
               child: mostrarErro ? fnMostrarErro() : SizedBox.shrink(),
@@ -61,16 +68,19 @@ class _FormLoginState extends State<FormLogin> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 ElevatedButton(
+                  key: Key("botao_enviar_key"),
                     onPressed: () async {
                       if(_formKeyLogin.currentState!.validate()){
                         try {
-                          UserCredential userCredential = await FirebaseAuth.instance.signInWithEmailAndPassword(
+                          var obterLogin = await FirebaseAuth.instance.signInWithEmailAndPassword(
                               email: emailController.text,
                               password: senhaController.text
                           );
                           setState(() {
                             mostrarErro = false;
                           });
+                          final prefs = await SharedPreferences.getInstance();
+                          await prefs.setString('user_id', obterLogin.user!.uid);
                           Navigator.pushNamed(context, 'home');
                         } on FirebaseAuthException catch (e) {
                           if (e.code == 'invalid-credential') {
@@ -78,6 +88,7 @@ class _FormLoginState extends State<FormLogin> {
                               mensagemErro = "Usuário ou senha inválidos!";
                               mostrarErro = true;
                             });
+                            print("teste");
                           } else if(e.code == 'invalid-email') {
                             setState(() {
                               mensagemErro = "Informe um e-mail válido!";
