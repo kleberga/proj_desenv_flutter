@@ -10,8 +10,9 @@ No âmbito técnico, o aplicativo possui as seguintes características:
 - a localização do celular é realizada por meio da biblioteca "location" e a identificação da cidade usando a latitude e longitude do celular é feita por meio de API gratuita voltada pela essa finalidade;
 - o gerenciamento do estado da relação de tarefas cadastradas é realizado pela biblioteca "provider";
 - as caixas para o usuário inserir e-mail e senha durante o login, registro e recuperação de senha são provenientes de um pacote salvo no GitHub e carregado pelo aplicativo;
-- o aplicativo possui testes unitários para as funções que adicionam novas tarefas e para as funções que recuperam, criam ou alteram registros no banco de dados; e
-- o aplicativo possui teste de integração para a tela de login.
+- o aplicativo possui testes unitários para as funções que adicionam novas tarefas e para as funções que recuperam, criam ou alteram registros no banco de dados;
+- o aplicativo possui teste de integração para a tela de login; e
+- foi gerado o arquivo "app-release.aab", que encontra-se na pasta raiz do projeto, para publicação na Play Store.
   
 
 As imagens a seguir mostram a aplicação em funcionamento:
